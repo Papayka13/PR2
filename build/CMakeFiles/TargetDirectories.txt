@@ -1,3 +1,0 @@
-/home/fedor/PR2-main/build/CMakeFiles/PR2.dir
-/home/fedor/PR2-main/build/CMakeFiles/edit_cache.dir
-/home/fedor/PR2-main/build/CMakeFiles/rebuild_cache.dir
